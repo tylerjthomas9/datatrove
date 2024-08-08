@@ -1,5 +1,5 @@
-import unittest
 import trafilatura
+import unittest
 
 from datatrove.pipeline.extractors import ReadabilityInscriptis, Trafilatura
 
